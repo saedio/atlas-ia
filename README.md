@@ -6,7 +6,6 @@ Agente inteligente que pesquisa, consulta, interpreta e correlaciona dados públ
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
