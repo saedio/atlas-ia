@@ -79,22 +79,6 @@ Resposta + fontes ◄── Interpretação dos dados ◄── Tratamento
 - APIs públicas externas
 - Camada de interpretação de linguagem natural (a definir)
 
-## Estrutura do projeto
-
-```text
-atlas-ai/
-├── main.py                 # Ponto de entrada (CLI)
-├── atlas/
-│   ├── interpreter.py      # Interpretação da pergunta
-│   ├── router.py           # Escolha da API adequada
-│   ├── clients/            # Um módulo por API (ibge, clima, paises)
-│   ├── processor.py        # Tratamento e correlação dos dados
-│   └── responder.py        # Montagem da resposta com fontes
-├── tests/
-├── requirements.txt
-└── README.md
-```
-
 ## Instalação
 
 ```bash
